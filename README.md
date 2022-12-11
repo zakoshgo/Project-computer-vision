@@ -1,5 +1,5 @@
 # Project-computer-vision
-##WELCOME TO OUR MARS ROVER PROJECT
+## WELCOME TO OUR MARS ROVER PROJECT
 
 Team members: ziad ashraf ahmed ahmed kasem 19p7095
 		  Gannah Allah Mohamed GAber MAhmoud 19p9610
