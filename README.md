@@ -2,10 +2,10 @@
 ## WELCOME TO OUR MARS ROVER PROJECT
 
 Team members: ziad ashraf ahmed ahmed kasem 19p7095
-		  Gannah Allah Mohamed GAber MAhmoud 19p9610
-		  Yassin Khaled Mostafa Attia Mahgub 19p9597
-		  Adham Ehab Salman Selim 19p4388
-		  Mohamed Mahmoud Sadek Mahmoud Rehab 17P8053
+Gannah Allah Mohamed GAber MAhmoud 19p9610
+Yassin Khaled Mostafa Attia Mahgub 19p9597
+Adham Ehab Salman Selim 19p4388
+Mohamed Mahmoud Sadek Mahmoud Rehab 17P8053
 
 The pipeline is shown in the jupyter notebook "Rover_Project_Test_Notebook.ipynb" within the code file
 the notebook uses a random output image from the simulator and put it through the pipeline to show the
